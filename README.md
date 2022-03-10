@@ -1,7 +1,9 @@
-## 🎓 Education:
-🏫 Graduate at Auckland University of Technology (AUT) and completed a Bachelors of Computer and Information Sciences majoring in Software Development.
-<br/>
-⬆️ Currently **upskilling** with MissionReadyHQ
+## 🎓 Education and Accomplishments:
+   🏫 Graduate at Auckland University of Technology (AUT) 
+   <br/>
+   📜 Completed a Bachelors of Computer and Information Sciences majoring in Software Development.
+   <br/>
+   ⬆️ Currently **upskilling** with MissionReadyHQ
 <br/>
 <br/>
 ## 📫 Want to get in touch? 
