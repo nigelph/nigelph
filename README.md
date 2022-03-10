@@ -1,12 +1,14 @@
 ## 🎓 Education:
 🏫 Graduate at Auckland University of Technology (AUT) and completed a Bachelors of Computer and Information Sciences majoring in Software Development.
-
+<br/>
 ⬆️ Currently **upskilling** with MissionReadyHQ
+<br/>
 <br/>
 ## 📫 Want to get in touch? 
    📧 **Email:** nigel.phan11@gmail.com
    <br/>
    ✉️ **LinkedIn:** https://www.linkedin.com/in/nigel-phan-b188bb191/
+<br/>
 <br/>
 ## 💻 Technologies:
   #### Frontend
