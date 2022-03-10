@@ -1,9 +1,9 @@
-* Bachelors of Computer and Information Sciences (AUT) graduate
+🌱 Bachelors of Computer and Information Sciences (AUT) graduate
 
-* Currently upskilling with MissionReadyHQ
+🔭 Currently upskilling with MissionReadyHQ
 
 
-- 📫 How to reach me: 
+📫 How to reach me: 
   - Email: nigel.phan11@gmail.com
 
 <!--
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: 
-- Email: nigel.phan11@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
