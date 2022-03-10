@@ -4,7 +4,7 @@
 
 
 - 📫 How to reach me: 
-Email: nigel.phan11@gmail.com
+  - Email: nigel.phan11@gmail.com
 
 <!--
 **nigelph/nigelph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
