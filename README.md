@@ -1,11 +1,24 @@
-🌱 Bachelors of Computer and Information Sciences (AUT) graduate
+## Education
+🎓 Graduate at Auckland University of Technology (AUT) and completed a Bachelors of Computer and Information Sciences majoring in Software Development.
 
-🔭 Currently upskilling with MissionReadyHQ
+⬆️ Currently **upskilling** with MissionReadyHQ
 
-👯 Full Stack Developer
+## 📫 Want to get in touch? 
+   📧 **Email:** nigel.phan11@gmail.com
+   <br/>
+   ✉️ **LinkedIn:** https://www.linkedin.com/in/nigel-phan-b188bb191/
 
-📫 How to reach me: 
-  - Email: nigel.phan11@gmail.com
+### 💻 Technologies:
+  #### Frontend
+    ✅ HTML
+    ✅ CSS
+    ✅ JavaScript
+    ✅ ReactJS
+    
+  #### Backend
+    ✅ NodeJS
+    ✅ ExpressJS
+    ✅ MySQL
 
 <!--
 **nigelph/nigelph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
