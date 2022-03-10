@@ -2,6 +2,7 @@
 
 🔭 Currently upskilling with MissionReadyHQ
 
+👯 Full Stack Developer
 
 📫 How to reach me: 
   - Email: nigel.phan11@gmail.com
