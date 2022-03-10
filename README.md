@@ -1,4 +1,7 @@
-### Hi there 👋
+### Bachelors of Computer and Information Sciences (AUT) graduate
+
+### Currently upskilling with MissionReadyHQ
+
 
 <!--
 **nigelph/nigelph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
