@@ -8,7 +8,6 @@
    ⬆️ Currently **upskilling** with MissionReadyHQ
    - Full Stack Web Development **(October 2021 - December 2021)**
    - Advanced Software Development **(February 2022 - Present)**
-<br/>
 
 ## 💻 Technologies:
   ### Frontend
@@ -26,7 +25,6 @@
    ✅ ExpressJS
    <br/>
    ✅ MySQL
-<br/>
 <br/>
 
 ## 📫 Want to get in touch? 
