@@ -1,11 +1,15 @@
 ## 🎓 Education History:
    🏫 Graduated at Auckland University of Technology (AUT) in 2021.
    <br/>
+   <br/>
    📜 Completed a Bachelors of Computer and Information Sciences majoring in Software Development.
    <br/>
+   <br/>
    ⬆️ Currently **upskilling** with MissionReadyHQ
+   - Full Stack Web Development **(October 2021 - December 2021)**
+   - Advanced Software Development **(February 2022 - Present)**
 <br/>
-<br/>
+
 ## 💻 Technologies:
   ### Frontend
    ✅ HTML
