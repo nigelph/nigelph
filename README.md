@@ -25,6 +25,24 @@
    ✅ ExpressJS
    <br/>
    ✅ MySQL
+   
+  ### DevOps
+   ✅ IBMCoud
+   <br/>
+   ✅ Docker
+   <br/>
+   ✅ CircleCI
+   <br/>
+   ✅ Snyk
+   
+  ### Exposed to and have used:
+   ✅ C
+   <br/>
+   ✅ C++
+   <br/>
+   ✅ Java
+   <br/>
+   ✅ Unity
 <br/>
 
 ## 📫 Want to get in touch? 
