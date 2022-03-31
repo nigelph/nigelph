@@ -38,7 +38,7 @@
   ### Exposed to and have used:
    ✅ C
    <br/>
-   ✅ C++
+   ✅ C#
    <br/>
    ✅ Java
    <br/>
